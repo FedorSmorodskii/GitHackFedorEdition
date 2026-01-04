@@ -1,0 +1,31 @@
+{
+  "repository_path": ".",
+  "fill_contributions": {
+    "enabled": true,
+    "start_date": "2026-01-01",
+    "end_date": "2026-01-04",
+    "min_commits_per_day": 1,
+    "max_commits_per_day": 10,
+    "activity_pattern": "random",
+    "weekend_activity": true
+  },
+  "schedule": {
+    "enabled": false,
+    "interval_hours": 24,
+    "time": "12:00"
+  },
+  "commit_messages": [
+    "Update documentation",
+    "Fix minor issues",
+    "Refactor code",
+    "Add new features",
+    "Improve performance",
+    "Update dependencies",
+    "Code cleanup",
+    "Fix typos",
+    "Update README",
+    "Optimize code"
+  ],
+  "auto_push": true
+}
+
